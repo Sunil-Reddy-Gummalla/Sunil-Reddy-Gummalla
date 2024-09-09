@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Clone Drive](https://github.com/Sunil-Reddy-Gummalla/clone-drive)
 
-- 🌱 I’m currently learning **Google Cloud**
+- 🌱 I’m currently learning and working **Java FSD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sunil-Reddy-Gummalla?tab=repositories](https://github.com/Sunil-Reddy-Gummalla?tab=repositories)
 
