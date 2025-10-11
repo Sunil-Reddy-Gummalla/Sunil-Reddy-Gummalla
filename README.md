@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sunil-Reddy-Gummalla?tab=repositories](https://github.com/Sunil-Reddy-Gummalla?tab=repositories)
 
-- 💬 Ask me about **React, Node JS, Angular, SpringBoot, Java and Javascript**
+- 💬 Ask me about **React, Node JS, Angular, SpringBoot, Java Javascript and Blockchain**
 
 - 📫 How to reach me **gummalla.sunilreddy@gmail.com**
 
