@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil-reddy-gummalla&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-reddy-gummalla" /> </p>
 
-- 🔭 I’m currently working on [TradeMind.chat](https://www.trademind.chat/)
+- 🔭 I’m currently learning Solana. 
 
-- 🌱 I’m currently learning and working **Full Stack Developer**
+- 🌱 I’m currently working as **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sunil-Reddy-Gummalla?tab=repositories](https://github.com/Sunil-Reddy-Gummalla?tab=repositories)
 
